@@ -1,0 +1,66 @@
+.repositories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
+i {
+  color: rgb(71, 67, 67);
+}
+.repo {
+  width: 80%;
+  border: solid 1px #ccc;
+  background-color: rgb(235, 235, 235);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.5s ease-in;
+}
+
+.title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  line-height: 1.5rem;
+  max-height: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+.title > span {
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.error {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.description {
+  font-size: 14px;
+  color: black;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  line-height: 1.5rem;
+  max-height: 1.5rem;
+}
+.subitem {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-top: 10px;
+  margin-right: 10px;
+}

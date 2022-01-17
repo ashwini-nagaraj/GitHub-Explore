@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="user__profile"
+  data-testid="user"
+>
+  <img
+    alt="User"
+    className="p-10 avatar"
+    data-testid="avatar"
+    height="130"
+    width="130"
+  />
+  <div
+    className="user__profileDetails"
+    data-testid="stats"
+  >
+    <h4
+      data-testid="name"
+    />
+    <h5
+      data-testid="login"
+    />
+    <h7
+      data-testid="bio"
+    />
+    <div
+      className="user__profile"
+      data-testid="profile"
+    >
+      <div
+        className="user__profileDetail"
+        data-testid="profile_detail"
+      >
+        <i
+          className="fa fa-group"
+        />
+        <span>
+           Followers 
+        </span>
+      </div>
+      <div
+        className="user__profileDetail"
+      >
+        <i
+          className="fa fa-heart mr-5"
+        />
+        <span>
+           Following
+        </span>
+      </div>
+    </div>
+    <div />
+  </div>
+   
+</div>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="loading"
+  data-testid="loading"
+>
+  <img
+    alt="loading"
+    data-testid="image"
+    src="loading.gif"
+  />
+</div>
+`;

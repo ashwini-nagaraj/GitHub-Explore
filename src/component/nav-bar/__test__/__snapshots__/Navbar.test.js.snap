@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<nav
+  className="navbar navbar-expand-sm .bg-dark.bg-gradient"
+  data-testid="navbar"
+>
+  <ul
+    class="navbar-nav ml-auto"
+    data-testid="list-ul"
+  >
+    <li
+      class="nav-item"
+      data-testid="li"
+    >
+      <img
+        alt="profile"
+        className="mr-3 avatar"
+        data-testid="profileImg"
+        height="40"
+        src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"
+        width="40"
+      />
+    </li>
+    <li
+      class="nav-item px-3"
+      data-testid="list-items"
+    >
+      <input
+        className="search-box-user"
+        data-testid="search box"
+        onChange={[Function]}
+        onKeyDown={[Function]}
+        placeholder="Search for other user"
+        type="text"
+      />
+    </li>
+  </ul>
+</nav>
+`;

@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="homepage-wrapper"
+  data-testid="homepage"
+>
+  <img
+    alt="#"
+    className="logo-image"
+    data-testid="img"
+    src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"
+  />
+  <div
+    className="search-input-box"
+    data-testid="search"
+  >
+    <input
+      className="search-txt"
+      data-testid="search-box"
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      placeholder="Enter Github Username + ENTER!"
+      type="text"
+    />
+    <button
+      className="search-btn"
+      data-testid="search-button"
+      onClick={[Function]}
+    >
+      <i
+        aria-hidden="true"
+        className="fa fa-search"
+      />
+    </button>
+  </div>
+</div>
+`;

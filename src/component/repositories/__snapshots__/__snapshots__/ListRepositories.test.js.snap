@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<section
+  className="repositories"
+  data-testid="section"
+>
+  <span
+    className="error"
+    data-testid="error"
+  >
+    You sure what you are looking for? Looks like there is no repository with this name
+  </span>
+</section>
+`;

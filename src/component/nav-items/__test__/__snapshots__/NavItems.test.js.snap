@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<ul
+  className="nav nav-tabs"
+  data-testid="nav"
+>
+  <div
+    class="input-wrapper"
+    data-testid="wrapper"
+  >
+    <input
+      className="search-box"
+      data-testid="search-box"
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      placeholder="Search for any reopository and enter!"
+      type="text"
+    />
+  </div>
+  <li
+    className="nav-item"
+  >
+    <p
+      className="nav-link mb-0 active"
+    >
+      Repositories
+       
+    </p>
+  </li>
+  <li
+    className="nav-item"
+  >
+    <a
+      className="tab"
+      href="https://github.com/undefined"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Overview
+    </a>
+  </li>
+  <li
+    className="nav-item"
+    data-testid="nav-item-projects"
+  >
+    <a
+      className="tab"
+      href="https://github.com/undefined?tab=projects"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Projects
+    </a>
+  </li>
+</ul>
+`;

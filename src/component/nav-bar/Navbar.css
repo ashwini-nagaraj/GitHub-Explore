@@ -1,0 +1,28 @@
+.avatar {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.navbar {
+  margin: 1px;
+  background-color: rgb(54, 50, 50);
+}
+
+.search-box-user {
+  border-radius: 5px;
+  height: 39px;
+  width: 250px;
+  background: white;
+  font-size: 15px;
+  outline: none !important;
+  float: right;
+}
+
+@media screen and (max-width: 780px) {
+  .navbar-nav {
+    margin: 1px auto !important;
+  }
+  .nav-item {
+    margin: 1px auto !important;
+  }
+}
