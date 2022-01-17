@@ -4,7 +4,7 @@ Often we want to explore repositories of your favorite github users or someone b
 The app also gives different stats of the user and also total repository count.
 
 ### The site is live at ### 
-https://github-explore-repos.netlify.app/  (open for any suggestions for improvement !)
+https://githubexplore-repos.netlify.app/  (open for any suggestions for improvement !)
 
 ### How to run the project ###
 
