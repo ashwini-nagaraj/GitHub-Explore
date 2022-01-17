@@ -56,7 +56,7 @@ npm test
 
 ### JSDocs (Documentation) ###
 
-The files are available at following path: [a link] (https://github.com/ashwini-nagaraj/GitHub-Explore/tree/main/src/jsdocs)
+The files are available at following path: (https://github.com/ashwini-nagaraj/GitHub-Explore/tree/main/src/jsdocs)
 
 ### Future Improvements ###
 
