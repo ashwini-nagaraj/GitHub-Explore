@@ -65,7 +65,7 @@ There are many aspects which can be improved in future:
 * Dynamic search, display results while the user is typing. Currently it's displayed only on ENTER
 * Do not display pagination scroll if any error when searching for a repository
 * Use github API V3 or greater for better handling of data
-* Ofcourse more UI related changes. There is always room for improving more interactiveness and responsiveness of any application!!
+* Ofcourse more UI related changes. There is always room for improving interactiveness and responsiveness of any application!!
 
 ### Feedback about exercise ###
 
