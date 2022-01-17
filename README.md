@@ -12,7 +12,7 @@ Download the folder,
 
 Go to run "npm install" then "npm start"
 
-### How to run the project ###
+### How to run the test-suites ###
 
 Run the folloing command
 
