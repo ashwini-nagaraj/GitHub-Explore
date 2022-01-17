@@ -23,11 +23,9 @@ To run the test suite run the following command
 npm test
 
 ### Let's begin ###
-
-                          
+                        
 
 ![image](https://user-images.githubusercontent.com/97677773/149703437-eb984145-8efb-4859-bc97-038ae59d8b68.png)
-
 
 
 #### Initial screen , hover on the search icon to search ####
@@ -53,7 +51,6 @@ npm test
 #### Also there is a pagination bar which can be used to navigate across different repositories. Note that the pagination is displayed only if the repositories are greater than 6. ####
 
 
-
 ![image](https://user-images.githubusercontent.com/97677773/149704104-521e2967-a5d9-4676-8d70-ad4fbb09a671.png)
 
 
@@ -64,15 +61,14 @@ The files are available at following path: src/jsdocs
 ### Future Improvements ###
 
 There are many aspects which can be improved in future:
-~ Dynamic search, display results while the user is typing. Currently it's displayed only on ENTER
-~ Do not display pagination scroll if any error when searching for a repository
-~ Use github API V3 or greater for better handling of data
-~ Ofcourse more UI related changes. There is always room for making it more interactive and responsive!!
+1.) Dynamic search, display results while the user is typing. Currently it's displayed only on ENTER
+2.) Do not display pagination scroll if any error when searching for a repository
+3.) Use github API V3 or greater for better handling of data
+4.) Ofcourse more UI related changes. There is always room for making it more interactive and responsive!!
 
 ### Feedback about exercise ###
 
-This task was challenging since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in gitHub website. 
-It will be great to work on other features like filtering by language etc. This is quiet challenging since we have to fetch the coding languages of all the public repositories of a user and then filter. Over all it was a great experience and learning opportunity!!
+This task was challenging since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in gitHub website. It will be great to work on other features like filtering by language etc. This is quiet challenging since we have to fetch the coding languages of all the public repositories of a user and then filter. Over all it was a great experience and learning opportunity!!
 
 
 
