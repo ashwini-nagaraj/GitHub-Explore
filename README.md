@@ -61,15 +61,15 @@ The files are available at following path: src/jsdocs
 ### Future Improvements ###
 
 There are many aspects which can be improved in future:
-1.) Dynamic search, display results while the user is typing. Currently it's displayed only on ENTER
-2.) Do not display pagination scroll if any error when searching for a repository
-3.) Use github API V3 or greater for better handling of data
-4.) Ofcourse more UI related changes. There is always room for making it more interactive and responsive!!
+
+* Dynamic search, display results while the user is typing. Currently it's displayed only on ENTER
+* Do not display pagination scroll if any error when searching for a repository
+* Use github API V3 or greater for better handling of data
+* Ofcourse more UI related changes. There is always room for making it more interactive and responsive!!
 
 ### Feedback about exercise ###
 
 This task was challenging since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in gitHub website. It will be great to work on other features like filtering by language etc. This is quiet challenging since we have to fetch the coding languages of all the public repositories of a user and then filter. Over all it was a great experience and learning opportunity!!
-
 
 
 
