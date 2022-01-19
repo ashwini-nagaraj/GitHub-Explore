@@ -14,7 +14,7 @@ Go to run "npm install" then "npm start"
 
 ### How to run the test-suites ###
 
-Run the folloing command
+Run the following command
 
 "npm install @testing-library/react react-test-renderer jest-dom --save-dev" 
 
