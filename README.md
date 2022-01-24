@@ -69,7 +69,7 @@ There are many aspects which can be improved in future:
 
 ### Feedback about exercise ###
 
-This task was challenging, fun since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in gitHub website. It will be great to work on other features like filtering by language etc. That feature would be quiet challenging since we have to fetch the coding languages of all the public repositories of a user and then filter. Over all it was a great experience and learning opportunity!!
+This task was challenging, fun since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in gitHub website. Over all it was a great experience and learning opportunity!!
 
 
 
