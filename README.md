@@ -58,18 +58,6 @@ To run the test suite run the following command
 
 The files are available at following path: (https://github.com/ashwini-nagaraj/GitHub-Explore/tree/main/src/jsdocs)
 
-### Future Improvements ###
-
-There are many aspects which can be improved in future:
-
-* Real time search, display results while the user is typing. Currently it's displayed only on ENTER
-* Do not display pagination scroll if any error when searching for a repository
-* Use github API V3 or greater for better handling of data
-* Ofcourse more UI related changes. There is always room for improving interactiveness and responsiveness of any application!!
-
-### Feedback about exercise ###
-
-This task was challenging, fun since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in gitHub website. Over all it was a great experience and learning opportunity!!
 
 
 
