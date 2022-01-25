@@ -61,11 +61,11 @@ The files are available at following path: (https://github.com/ashwini-nagaraj/G
 ### Future Improvements ###
 
 
-• Dynamic search, display results while the user is typing. Currently it's displayed only on
+* Dynamic search, display results while the user is typing. Currently it's displayed only on
 ENTER
-• Do not display pagination scroll if any error when searching for a repository
-• Use GitHub API V3 or greater for better handling of data
-• Of course more UI related changes. There is always room for making it more interactive and
+* Do not display pagination scroll if any error when searching for a repository
+* Use GitHub API V3 or greater for better handling of data
+* Of course more UI related changes. There is always room for making it more interactive and
 responsive!!
 
 ### Feedback about exercise ###
