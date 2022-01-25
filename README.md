@@ -61,17 +61,12 @@ The files are available at following path: (https://github.com/ashwini-nagaraj/G
 ### Future Improvements ###
 
 
-* Dynamic search, display results while the user is typing. Currently it's displayed only on
-ENTER
+* Dynamic search, display results only when the user is typing. Currently it's displayed only on ENTER
 * Do not display pagination scroll if any error when searching for a repository
 * Use GitHub API V3 or greater for better handling of data
-* Of course more UI related changes. There is always room for making it more interactive and
-responsive!!
+* Of course more UI related changes. There is always room for making it more interactive and responsive!!
 
 ### Feedback about exercise ###
-This task was challenging since the git hub API is not pretty straight forward. It was challenging to
-mock one of the feature in GitHub website. It will be great to work on other features like filtering by
-language etc. This is quiet challenging since we have to fetch the coding languages of all the public
-repositories of a user and then filter. Over all it was a great experience and learning opportunity!!
+This task was challenging since the git hub API is not pretty straight forward. It was challenging to mock one of the feature in GitHub website. It will be great to work on other features like filtering by language etc. This is quiet challenging since we have to fetch the coding languages of all the public repositories of a user and then filter. Over all it was a great experience and learning opportunity!!
 
 
